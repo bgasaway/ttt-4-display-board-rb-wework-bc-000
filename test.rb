@@ -1,4 +1,4 @@
-board = [" o | x |   ", "   | x |   ", " x | O |   "]
+board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 def display_board
   phrase = "   |   |   "
   greeting= "-----------"
