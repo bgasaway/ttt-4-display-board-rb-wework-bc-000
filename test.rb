@@ -1,3 +1,4 @@
+board = [" o |, " x |   ", "   | x |   ", " x | O |   ""]
 def display_board
   phrase = "   |   |   "
   greeting= "-----------"
